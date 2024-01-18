@@ -1,4 +1,4 @@
-![logo](https://github.com/Manavsheth78/Manavsheth78/blob/main/Profile%20Banner.png)
+![logo](https://github.com/Manavsheth78/Manavsheth78/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Manav Sheth</h1>
 <h3 align="center">🚀 Passionate Software Developer | Web Developer | Transforming Ideas into Code ✨</h3>
 
